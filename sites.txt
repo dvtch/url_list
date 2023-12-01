@@ -236,11 +236,11 @@ puppethockey.com
 qag99.com
 quickdraw.withgoogle.com
 ranimania.com
-readinghelp.tk / Proxy
+readinghelp.tk
 reinsmidt.com
 repack-games.com
-repl.co / Games
-replit.com / Games
+repl.co
+replit.com
 retrocrush.tv
 retrogames.cc
 rossipotti.de
@@ -298,7 +298,7 @@ sites.google.com/view/2playergameunblocked
 sites.google.com/view/azunblockedgames
 sites.google.com/view/burritoback-up
 sites.google.com/view/burritoedition
-sites.google.com/view/bypass-central / Proxy
+sites.google.com/view/bypass-central
 sites.google.com/view/canvas-edition
 sites.google.com/view/classroom66
 sites.google.com/view/classroom6x
@@ -306,7 +306,7 @@ sites.google.com/view/craziest-games
 sites.google.com/view/crazy-games-unblock
 sites.google.com/view/creeperg
 sites.google.com/view/def-maths
-sites.google.com/view/dinoden / Proxy
+sites.google.com/view/dinoden
 sites.google.com/view/docsunblockedgames
 sites.google.com/view/doublegsgum
 sites.google.com/view/editionlinks
@@ -316,11 +316,11 @@ sites.google.com/view/fxyre
 sites.google.com/view/games-unblockedd
 sites.google.com/view/games235
 sites.google.com/view/gamexofficial
-sites.google.com/view/ghosted / Proxy
-sites.google.com/view/greenstation / Proxy
+sites.google.com/view/ghosted
+sites.google.com/view/greenstation
 sites.google.com/view/hackedgame
 sites.google.com/view/html5gamesunblocked
-sites.google.com/view/interstellarofficial / Proxy
+sites.google.com/view/interstellarofficial
 sites.google.com/view/iogames
 sites.google.com/view/kirby-central
 sites.google.com/view/learn-sci
@@ -329,7 +329,7 @@ sites.google.com/view/lotsolearning
 sites.google.com/view/master-editionn
 sites.google.com/view/mathhelp4school
 sites.google.com/view/maths-future
-sites.google.com/view/nghhub / Proxy
+sites.google.com/view/nghhub
 sites.google.com/view/noah-hub
 sites.google.com/view/pizzaedition
 sites.google.com/view/pizzalearns
@@ -373,7 +373,7 @@ snake.io
 snakes-3d.com
 snapchat.com
 soundeffectpro.com
-sourceforge.io / Hosting
+sourceforge.io
 space-huggers.osrc.com
 spacebartest.org
 spotify.com
