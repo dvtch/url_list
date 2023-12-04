@@ -495,3 +495,6 @@ now.gg
 astroid.gg
 allmovies.gg
 unblockedgame.world
+gog-games.to
+gog.com
+news.com.au
