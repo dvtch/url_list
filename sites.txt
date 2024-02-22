@@ -40,7 +40,7 @@ big8games.com
 boredbutton.com
 brainjar.com
 calculators.org/games
-calpoly.edu Hosting
+calpoly.edu
 cartoonnetwork.com.au
 cdn.jsdelivr.net
 china.dingshun.hk
@@ -443,6 +443,14 @@ yuhho.com
 yurk.com
 zombsroyale.io
 4nite.site
+sites.google.com/view/unblockified-games
+dotbigbang.com
+hexxagon.com
+kleiniggames.weebly.com
+doodles.google
+sites.google.com/view/mattysunblockedgames
+fnfgo.com
+mathsframe.co.uk
 66ez.github.io
 ad-freegames.github.io
 clickerheroesunblocked.github.io
