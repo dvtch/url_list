@@ -479,3 +479,5 @@ pcjs.org
 dolphin-emu.org
 wiilink24.com
 github.io
+youtube.com
+youtube.com.au
